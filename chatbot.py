@@ -1,5 +1,5 @@
 import streamlit as st
-from langchain_community.document_loaders import DirectoryLoader, TextLoader
+from langchain_community.document_loaders import DirectoryLoader
 st.set_page_config(page_title="🦜🔗 Quickstart App")
 st.title('🦜🔗 Quickstart App')
 
